@@ -7,16 +7,16 @@ main:
 #    url: /talks/    
 
   - title: "Research"
-    url: /research/   
+    url: /markdown/   
 
   - title: "Teaching"
     url: /teaching/    
 
   - title: "Service"
-  url: /service/   
+  url: /markdown/   
 
   - title: "Group"
-  url: /group/   
+  url: /markdown/   
     
 #  - title: "Portfolio"
 #    url: /portfolio/
