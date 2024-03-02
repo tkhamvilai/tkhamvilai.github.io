@@ -7,58 +7,16 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Aerospace Engineering with Electrical and Computer Engineering Minor, Georgia Institute of Technology, Atlanta, GA, USA, 2021
+* M.S. in Aerospace Engineering, Georgia Institute of Technology, Atlanta, GA, USA, 2017
+* B.S. in Aerospace Engineering, Kasetsart University, Bangkok, Thailand, 2016
 
-Work experience
+Professional Appointments
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Assistant Professor, Department of Mechanical Engineering, Texas Tech University, Lubbock, TX, USA, 2024-Present
+* Assistant Research Professor, Department of Aerospace Engineering, The Pennsylvania State University, State College, PA, USA, 2022-2024
+* Visiting Scholar, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia, 2020-2021
