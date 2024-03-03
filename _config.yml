@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "tkhamvilai.png"
   name             : "Thanakorn Khamvilai, Ph.D."
-  pronouns         : # example: "she/her"  
+  pronouns         : #"He/Him"  
   bio              : "Assistant Professor"
-  location         : "Lubbock, TX, USA"
-  employer         : "Texas Tech University"
-  uri              : # URL
-  email            : "thanakornkhamvilai@gmail.com" 
+  location         : "Mechanical Engineering North (MEN) 108"
+  employer         : "Texas Tech University, Lubbock, TX, USA"
+  uri              : #
+  email            : "thanakornkhamvilai@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "tkhamvilai"
+  github           : # "tkhamvilai"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "thanakorn-khamvilai"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
