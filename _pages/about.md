@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Dr. Khamvilai's Research Lab. This website is still under a construction. Feel free to send me an [email](mailto:thanakornkhamvilai) if you have any questions.
+Welcome to Dr. Khamvilai's Research Lab. This website is still under a construction. Feel free to send me an [email](mailto:thanakornkhamvilai@gmail.com) if you have any questions.
