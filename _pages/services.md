@@ -16,6 +16,7 @@ author_profile: true
 # Reviewer
 - AIAA Journal of Aerospace Information Systems (JAIS)
 - AIAA Journal of Guidance, Control, and Dynamics (JGCD)
+- AIAA/IEEE Digital Avionics Systems Conference (DASC)
 - IEEE Transactions on Automation Science and Engineering (T-ASE)
 - IEEE Transactions on Cybernetics (T-CYB)
 - IEEE Control Systems Letters (L-CSS)

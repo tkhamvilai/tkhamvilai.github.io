@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Texas Tech University
-- ME 3333: Dynamical Systems and Vibrations (Fall 2024)
+- ME 2302: Dynamics (Fall 2024)
 - ME 4330: Flight Dynamics and Control (Spring 2025)
 
 # Pennsylvania State University
