@@ -9,4 +9,4 @@ redirect_from:
 
 Welcome to Dr. Khamvilai's Research Lab. This website is still under a construction. You can visit [the Pennsylvania State University Unmanned Aerial System Research Laboratory (PURL)](https://purl.psu.edu) in the meantime.
 
-Feel free to send me an [email](mailto:thanakornkhamvilai@gmail.com) if you have any questions.
+Feel free to send me an [thanakorn.khamvilai@ttu.edu](mailto:thanakorn.khamvilai@ttu.edu) if you have any questions.
