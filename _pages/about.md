@@ -7,6 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Dr. Khamvilai's Research Lab. This website is still under a construction. You can visit [the Pennsylvania State University Unmanned Aerial System Research Laboratory (PURL)](https://purl.psu.edu) in the meantime.
-
-Feel free to send me an [thanakorn.khamvilai@ttu.edu](mailto:thanakorn.khamvilai@ttu.edu) if you have any questions.
+Welcome to Dr. Khamvilai's Research Lab. We are looking for both graduate and undergraduate students who have interests in aerospace and aviation. Feel free to send an email to [thanakorn.khamvilai@ttu.edu](mailto:thanakorn.khamvilai@ttu.edu).
