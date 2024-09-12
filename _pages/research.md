@@ -49,20 +49,29 @@ Sponsors: Abu Dhabi’s Advanced Technology Research Council
 ![Mohamed Bin Zayed International Robotics Challenge](/images/mbzirc_gtar.png "Mohamed Bin Zayed International Robotics Challenge")
 
 ## Reconfigurable Modular Drone (Georgia Tech)
-Sponsors: King Abdullah University of Science and Technology
+Sponsors: National Science Foundation and King Abdullah University of Science and Technology
 
 ![Reconfigurable Modular Drone](/images/reconfigurable_modular_drone.png "Reconfigurable Modular Drone")
+
+## Reinforcement Learning for Morphing Airfoil (Georgia Tech)
+Sponsors: National Science Foundation
+
+![Reinforcement Learning for Morphing Airfoil](/images/morphing_airfoil.png "Reinforcement Learning for Morphing Airfoil")
 
 ## Distributed Engine Control (Georgia Tech)
 Sponsors: ControlX, Inc and Air Force Research Laboratory
 
 ![Distributed Engine Control](/images/Distributed_Engine_Control.png "Distributed Engine Control")
 
-
 ## Multicore Avionics Emulator (Georgia Tech)
 Sponsors: SAFRAN
 
 ![Multicore Avionics Emulator](/images/multicore_avionics.png "Multicore Avionics Emulator")
+
+## Stiffness Control of 3D-Printed Material (Georgia Tech)
+Sponsors: National Science Foundation and Air Force Research Laboratory
+
+![Stiffness Control of 3D-Printed Material](/images/print_feedback.png "Stiffness Control of 3D-Printed Material")
 
 ## Autonomous Aerial Vehicle Challenge (Thailand)
 Sponsors: Kasetsart University
