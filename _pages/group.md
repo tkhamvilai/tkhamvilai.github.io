@@ -15,3 +15,17 @@ author_profile: true
 # M.S. students
 
 # B.S. students
+
+### Akinloluwa Oluokun (Joel)
+![Akinloluwa](/images/Akinloluwa.png#left "AkinloluwaOluokun")\
+aoluokun@ttu.edu
+
+### Carlos Quiroga
+
+![CarlosQuiroga](/images/CarlosQuiroga.png#left "CarlosQuiroga")\
+caquirog@ttu.edu
+
+### John Bradford Gann
+
+![JohnBradfordGann](/images/JohnBradfordGann.png#left "JohnBradfordGann")\
+johngann@ttu.edu
