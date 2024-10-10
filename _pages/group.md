@@ -17,7 +17,7 @@ author_profile: true
 # B.S. students
 
 ### Akinloluwa Oluokun (Joel)
-![Akinloluwa](/images/Akinloluwa.png#left "AkinloluwaOluokun")\
+![AkinloluwaOluokun](/images/AkinloluwaOluokun.png#left "AkinloluwaOluokun")\
 aoluokun@ttu.edu
 
 ### Carlos Quiroga
