@@ -29,3 +29,8 @@ caquirog@ttu.edu
 
 ![JohnBradfordGann](/images/JohnBradfordGann.png#left "JohnBradfordGann")\
 johngann@ttu.edu
+
+### Marcos Guzman
+
+![MarcosGuzman](/images/MarcosGuzman.png#left "MarcosGuzman")\
+marcosgu@ttu.edu
