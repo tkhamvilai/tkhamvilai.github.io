@@ -34,3 +34,17 @@ johngann@ttu.edu
 
 ![MarcosGuzman](/images/MarcosGuzman.png#left "MarcosGuzman")\
 marcosgu@ttu.edu
+
+### Sierra Melass
+
+![SierraMelass](/images/SierraMelass.png#left "SierraMelass")\
+smelass@ttu.edu
+
+# Alumni
+
+### Obadah Wali
+
+![ObadahWali](/images/ObadahWali.png#left "ObadaWali")\
+Short-Term Visiting\
+Ph.D. student in Mechanical Engineering, KAUST, Saudi Arabia\
+obadah.wali@kaust.edu.sa
