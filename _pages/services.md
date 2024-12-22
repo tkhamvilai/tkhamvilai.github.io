@@ -10,8 +10,9 @@ author_profile: true
 - Advisor, [Thai Student Association at the Pennsylvania State University](https://www.instagram.com/thsa_pennstate/) (2022-2024)
 
 # Conference Organizer
-- AIAA/IEEE Digital Avionics Systems Conference (DASC)
-- Workshop on Avionics Systems and Software Engineering (AvioSE)
+- Session Chair: AIAA Science and Technology Forum and Exposition (SciTech)
+- Technical Committee & Session Chair: AIAA/IEEE Digital Avionics Systems Conference (DASC)
+- Program Committee: Workshop on Avionics Systems and Software Engineering (AvioSE)
 
 # Reviewer
 - AIAA Journal of Aerospace Information Systems (JAIS)
