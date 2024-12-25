@@ -50,5 +50,5 @@ smelass@ttu.edu
 
 ![ObadahWali](/images/ObadahWali.png#left "ObadaWali")\
 Short-Term Visiting\
-Ph.D. student in Mechanical Engineering, KAUST, Saudi Arabia\
+<ins>Current Position</ins>: Ph.D. student in Mechanical Engineering, KAUST, Saudi Arabia\
 obadah.wali@kaust.edu.sa
