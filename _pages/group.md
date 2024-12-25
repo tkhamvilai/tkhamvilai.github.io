@@ -11,6 +11,9 @@ author_profile: true
  Dr. Thanakorn Khamvilai is an Assistant Professor of Aerospace Engineering in the Department of Mechanical Engineering at Texas Tech University. He received his doctoral degree in Aerospace Engineering from the Georgia Institute of Technology. He previously worked as an Assistant Research Professor in the Department of Aerospace Engineering at the Pennsylvania State University. He holds Private Pilot and Remote Pilot Certificates. His research interests include avionics systems, real-time optimization, and guidance-navigation-and-control of autonomous systems.
 
 # Ph.D. students
+![Jetawatthana](/images/Jetawatthana.png#left "Jetawattha")\
+sjetawat@ttu.edu\
+<ins>Alma mater</ins>: Kasetsart University, Bangkok, Thailand
 
 # M.S. students
 
