@@ -38,12 +38,20 @@ caquirog@ttu.edu
 ![JohnBradfordGann](/images/JohnBradfordGann.png#left "JohnBradfordGann")\
 johngann@ttu.edu
 
-
-
 ### Sierra Melass
 
 ![SierraMelass](/images/SierraMelass.png#left "SierraMelass")\
 smelass@ttu.edu
+
+### Christopher Wilcox
+
+![SierraMelass](/images/ChristopherWilcox.png#left "ChristopherWilcox")\
+chrwillc@ttu.edu
+
+### Jeremias Palacios
+
+![JeremiasPalacios](/images/JeremiasPalacios.png#left "JeremiasPalacios")\
+jerpalac@ttu.edu
 
 # Alumni
 
