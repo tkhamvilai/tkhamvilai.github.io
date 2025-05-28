@@ -38,10 +38,7 @@ caquirog@ttu.edu
 ![JohnBradfordGann](/images/JohnBradfordGann.png#left "JohnBradfordGann")\
 johngann@ttu.edu
 
-### Marcos Guzman
 
-![MarcosGuzman](/images/MarcosGuzman.png#left "MarcosGuzman")\
-marcosgu@ttu.edu
 
 ### Sierra Melass
 
@@ -50,9 +47,16 @@ smelass@ttu.edu
 
 # Alumni
 
+### Marcos Guzman
+
+![MarcosGuzman](/images/MarcosGuzman.png#left "MarcosGuzman")\
+Bachelor Degree in Mechanical Engineering, Texas Tech University\
+<ins>First Position</ins>: Field Robotics Engineer at [Square Robot](https://squarerobot.com/)\
+<ins>Contact</ins>: https://www.linkedin.com/in/marcos-guzman-9077a2265/
+
 ### Obadah Wali
 
 ![ObadahWali](/images/ObadahWali.png#left "ObadaWali")\
-Short-Term Visiting\
+Short-Term Ph.D. Visiting\
 <ins>Current Position</ins>: Ph.D. student in Mechanical Engineering, KAUST, Saudi Arabia\
-obadah.wali@kaust.edu.sa
+<ins>Contact</ins>obadah.wali@kaust.edu.sa
