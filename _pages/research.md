@@ -27,7 +27,7 @@ Sponsors: Texas University Fund
 
 Sponsors: Texas University Fund
 
-![Adaptive Control Co-Design](/images/ACCD.jpg "Adaptive Control Co-Design")
+![Adaptive Control Co-Design](/images/ACCD.png "Adaptive Control Co-Design")
 
 # Past Research at Previous Institutions
 
