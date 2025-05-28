@@ -9,10 +9,13 @@ author_profile: true
 - Advisor, [Raider Aerospace Society](https://www.raideraerospace.com/) (2024-Present)
 - Advisor, [Thai Student Association at the Pennsylvania State University](https://www.instagram.com/thsa_pennstate/) (2022-2024)
 
+# Professional Society Technical Committee
+- AIAA Digital Avionics Technical Committee
+
 # Conference Organizer
 - Session Chair: AIAA Science and Technology Forum and Exposition (SciTech)
-- Technical Committee & Session Chair: AIAA/IEEE Digital Avionics Systems Conference (DASC)
-- Program Committee: Workshop on Avionics Systems and Software Engineering (AvioSE)
+- Committee & Session Chair: AIAA/IEEE Digital Avionics Systems Conference (DASC)
+- Committee: Workshop on Avionics Systems and Software Engineering (AvioSE)
 
 # Reviewer
 - AIAA Journal of Aerospace Information Systems (JAIS)
