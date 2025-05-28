@@ -45,7 +45,7 @@ smelass@ttu.edu
 
 ### Christopher Wilcox
 
-![SierraMelass](/images/ChristopherWilcox.png#left "ChristopherWilcox")\
+![SierraMelass](/images/profile.png#left "ChristopherWilcox")\
 chrwillc@ttu.edu
 
 ### Jeremias Palacios
