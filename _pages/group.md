@@ -60,7 +60,7 @@ jerpalac@ttu.edu
 ![MarcosGuzman](/images/MarcosGuzman.png#left "MarcosGuzman")\
 Bachelor Degree in Mechanical Engineering, Texas Tech University\
 <ins>First Position</ins>: Field Robotics Engineer at [Square Robot](https://squarerobot.com/)\
-<ins>Contact</ins>: https://www.linkedin.com/in/marcos-guzman-9077a2265/
+<ins>Contact</ins>: [linkedin](https://www.linkedin.com/in/marcos-guzman-9077a2265/)
 
 ### Obadah Wali
 
