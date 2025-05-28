@@ -15,5 +15,5 @@ Feel free to check out our\
 [Research](https://tkhamvilai.github.io/research/)\
 [Teaching](https://tkhamvilai.github.io/teaching/)\
 [Services](https://tkhamvilai.github.io/services/)\
-[Members](https://tkhamvilai.github.io/group/)\
-[Facilities](https://tkhamvilai.github.io/facilities/)
+[Members](https://tkhamvilai.github.io/group/)
+<!-- [Facilities](https://tkhamvilai.github.io/facilities/) -->

@@ -12,5 +12,5 @@ main:
   - title: "Group"
     url: /group/
         
-  - title: "Facilities"
-    url: /facilities/
+  # - title: "Facilities"
+  #   url: /facilities/
