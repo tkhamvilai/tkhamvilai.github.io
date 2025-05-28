@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Texas Tech University
-- ME 2302: Engineering Mechanics: Dynamics (Fall 2024)
+- ME 2302: Engineering Mechanics: Dynamics (Fall 2024, Fall 2025)
 - ME 4330: Flight Dynamics and Control (Spring 2025)
 
 # Pennsylvania State University

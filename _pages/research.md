@@ -11,6 +11,24 @@ author_profile: true
 
 # Current Research at Texas Tech
 
+## Vertical-Takeoff-and-Landing (VTOL) Aircraft Flight Control
+
+Sponsors: Texas University Fund
+
+![VTOL Aircraft Flight Control](/images/VTOL_flight.png "VTOL Aircraft Flight Control")
+
+## Estimation under Censored Measurements with an Application to GPS-Denied Navigation 
+
+Sponsors: Texas University Fund
+
+![GPS-Denied Navigation](/images/MTKF_trajectory.png "GPS-Denied Navigation")
+
+## Adaptive Control Co-Design 
+
+Sponsors: Texas University Fund
+
+![Adaptive Control Co-Design](/images/ACCD.jpg "Adaptive Control Co-Design")
+
 # Past Research at Previous Institutions
 
 ## Autopilot Software Development and Hardware Installation (Penn State)
