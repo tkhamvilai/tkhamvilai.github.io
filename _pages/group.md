@@ -45,13 +45,18 @@ smelass@ttu.edu
 
 ### Christopher Wilcox
 
-![SierraMelass](/images/profile.png#left "ChristopherWilcox")\
+![ChristopherWillcox](/images/ChristopherWillcox.png#left "ChristopherWillcox")\
 chrwillc@ttu.edu
 
 ### Jeremias Palacios
 
 ![JeremiasPalacios](/images/JeremiasPalacios.png#left "JeremiasPalacios")\
 jerpalac@ttu.edu
+
+### Payton Smith
+
+![PaytonSmith](/images/PaytonSmith.png#left "PaytonSmith")\
+smi31959@ttu.edu
 
 # Alumni
 
