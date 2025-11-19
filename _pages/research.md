@@ -11,16 +11,11 @@ author_profile: true
 
 # Current Research at Texas Tech
 
-## Vertical-Takeoff-and-Landing (VTOL) Aircraft Flight Control
-
-Sponsors: Texas University Fund
-
-![VTOL Aircraft Flight Control](/images/VTOL_flight.png "VTOL Aircraft Flight Control")
-
 ## Estimation under Censored Measurements with an Application to GPS-Denied Navigation 
 
 Sponsors: Texas University Fund
 
+[![GPS-Denied Navigation](/images/censored_nav.png)](https://youtu.be/-_f0WhKIvwQ)
 ![GPS-Denied Navigation](/images/MTKF_trajectory.png "GPS-Denied Navigation")
 
 ## Adaptive Control Co-Design 
@@ -28,6 +23,12 @@ Sponsors: Texas University Fund
 Sponsors: Texas University Fund
 
 ![Adaptive Control Co-Design](/images/accd.png "Adaptive Control Co-Design")
+
+## Vertical-Takeoff-and-Landing (VTOL) Aircraft Flight Control
+
+Sponsors: Texas University Fund
+
+![VTOL Aircraft Flight Control](/images/VTOL_flight.png "VTOL Aircraft Flight Control")
 
 # Past Research at Previous Institutions
 
@@ -44,6 +45,7 @@ Sponsors: Bolder Flight Systems and Air Force Research Laboratory
 ## Vision-based Detect-and-Avoid (Penn State)
 Sponsors: Utopia Compression and Air Force Research Laboratory
 
+![Vision-based Detect-and-Avoid](/images/detect-and-avoid.gif "Vision-based Detect-and-Avoid")
 ![Vision-based Detect-and-Avoid](/images/detect_and_avoid.png "Vision-based Detect-and-Avoid")
 
 ## Adaptive Control of eVTOL aircraft (Penn State)

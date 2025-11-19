@@ -53,10 +53,10 @@ chrwillc@ttu.edu
 ![JeremiasPalacios](/images/JeremiasPalacios.png#left "JeremiasPalacios")\
 jerpalac@ttu.edu
 
-### Payton Smith
+### Timaje Moore
 
-![PaytonSmith](/images/PaytonSmith.png#left "PaytonSmith")\
-smi31959@ttu.edu
+![TimajeMoore](/images/TimajeMoore.png#left "TimajeMoore")\
+timamoor@ttu.edu
 
 # Alumni
 

@@ -28,3 +28,11 @@ author_profile: true
 - IEEE American Control Conference (ACC)
 - IEEE Conference on Control Technology and Applications (CCTA)
 - Elsevier Ocean Engineering
+
+# STEM Outreach
+- Member, [STEM Center for Outreach, Research, and Education](https://www.depts.ttu.edu/stem/membership/index.php)
+- Workshop Presenter, [Tech Savvy](https://www.depts.ttu.edu/stem/techsavvy/index.php)
+
+![STEM_CORE_1](/images/STEM_CORE_1.png#left "STEM CORE_1")
+![STEM_CORE_2](/images/STEM_CORE_2.png#left "STEM CORE_2")
+![STEM_CORE_3](/images/STEM_CORE_3.png#left "STEM CORE_3")

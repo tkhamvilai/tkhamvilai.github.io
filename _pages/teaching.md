@@ -7,7 +7,7 @@ author_profile: true
 
 # Texas Tech University
 - ME 2302: Engineering Mechanics: Dynamics (Fall 2024, Fall 2025)
-- ME 4330: Flight Dynamics and Control (Spring 2025)
+- ME 4330: Flight Dynamics and Control (Spring 2025, Spring 2026)
 
 # Pennsylvania State University
 - AERSP 424: Advanced Computer Programming (Fall 2022, Spring 2023, Fall 2023, Spring 2024)
