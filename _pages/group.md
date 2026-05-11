@@ -16,42 +16,19 @@ author_profile: true
 sjetawat@ttu.edu\
 <ins>Alma mater</ins>: Kasetsart University, Bangkok, Thailand
 
-# M.S. students
 ### Roshan Kumar Chhetri
 ![RoshanKumarChhetri](/images/RoshanKumarChhetri.png#left "Roshan Kumar Chhetri")\
 roschhet@ttu.edu\
 <ins>Alma mater</ins>: Kathmandu University, Nepal
 
+# M.S. students
+
 # B.S. students
-
-### Akinloluwa Oluokun (Joel)
-![AkinloluwaOluokun](/images/AkinloluwaOluokun.png#left "AkinloluwaOluokun")\
-aoluokun@ttu.edu
-
-### Carlos Quiroga
-
-![CarlosQuiroga](/images/CarlosQuiroga.png#left "CarlosQuiroga")\
-caquirog@ttu.edu
-
-### John Bradford Gann
-
-![JohnBradfordGann](/images/JohnBradfordGann.png#left "JohnBradfordGann")\
-johngann@ttu.edu
-
-### Sierra Melass
-
-![SierraMelass](/images/SierraMelass.png#left "SierraMelass")\
-smelass@ttu.edu
 
 ### Christopher Wilcox
 
 ![ChristopherWillcox](/images/ChristopherWillcox.png#left "ChristopherWillcox")\
 chrwillc@ttu.edu
-
-### Jeremias Palacios
-
-![JeremiasPalacios](/images/JeremiasPalacios.png#left "JeremiasPalacios")\
-jerpalac@ttu.edu
 
 ### Timaje Moore
 
@@ -60,12 +37,44 @@ timamoor@ttu.edu
 
 # Alumni
 
+### Sierra Melass
+
+![SierraMelass](/images/SierraMelass.png#left "SierraMelass")\
+Bachelor Degree in Mechanical Engineering, Texas Tech University\
+<ins>First Position</ins>: Engineer at [L3Harris](https://www.l3harris.com/)\
+<ins>Contact</ins>: [linkedin](https://www.linkedin.com/in/sierra-melass-9691a6279/)
+
+### Akinloluwa Oluokun (Joel)
+![AkinloluwaOluokun](/images/AkinloluwaOluokun.png#left "AkinloluwaOluokun")\
+Bachelor Degree in Mechanical Engineering, Texas Tech University\
+<ins>First Position</ins>: Engineer at [Enterprise Products](https://www.enterpriseproducts.com/)
+<!-- <ins>Contact</ins>: [linkedin](https://www.linkedin.com/in/marcos-guzman-9077a2265/) -->
+
+### Carlos Quiroga
+
+![CarlosQuiroga](/images/CarlosQuiroga.png#left "CarlosQuiroga")\
+Bachelor Degree in Mechanical Engineering, Texas Tech University\
+<ins>First Position</ins>: Systems Engineer at [Lockheed Martin](https://www.lockheedmartin.com/)\
+<ins>Contact</ins>: [linkedin](https://www.linkedin.com/in/carlos-s-quiroga/)
+
+### John Bradford Gann
+
+![JohnBradfordGann](/images/JohnBradfordGann.png#left "JohnBradfordGann")\
+Bachelor Degree in Mechanical Engineering, Texas Tech University\
+<ins>First Position</ins>: Mechatronics Engineer at [Lockheed Martin](https://www.lockheedmartin.com/)\
+<ins>Contact</ins>: [linkedin](https://www.linkedin.com/in/bradfordgann/)
+
 ### Marcos Guzman
 
 ![MarcosGuzman](/images/MarcosGuzman.png#left "MarcosGuzman")\
 Bachelor Degree in Mechanical Engineering, Texas Tech University\
 <ins>First Position</ins>: Field Robotics Engineer at [Square Robot](https://squarerobot.com/)\
 <ins>Contact</ins>: [linkedin](https://www.linkedin.com/in/marcos-guzman-9077a2265/)
+
+### Jeremias Palacios
+
+![JeremiasPalacios](/images/JeremiasPalacios.png#left "JeremiasPalacios")\
+Bachelor Degree in Mechanical Engineering, Texas Tech University
 
 ### Obadah Wali
 
