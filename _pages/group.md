@@ -22,6 +22,10 @@ roschhet@ttu.edu\
 <ins>Alma mater</ins>: Kathmandu University, Nepal
 
 # M.S. students
+### Adison Farthing
+![AdisonFarthing](/images/AdisonFarthing.png#left "Adison Farthing")\
+Adison.Farthing@ttu.edu\
+<ins>Alma mater</ins>: Texas Tech University, Lubbock, TX
 
 # B.S. students
 
@@ -47,7 +51,7 @@ Bachelor Degree in Mechanical Engineering, Texas Tech University\
 ### Akinloluwa Oluokun (Joel)
 ![AkinloluwaOluokun](/images/AkinloluwaOluokun.png#left "AkinloluwaOluokun")\
 Bachelor Degree in Mechanical Engineering, Texas Tech University\
-<ins>First Position</ins>: Engineer at [Enterprise Products](https://www.enterpriseproducts.com/)
+<ins>First Position</ins>: Operation Engineer at [Enterprise Products](https://www.enterpriseproducts.com/)
 <!-- <ins>Contact</ins>: [linkedin](https://www.linkedin.com/in/marcos-guzman-9077a2265/) -->
 
 ### Carlos Quiroga
