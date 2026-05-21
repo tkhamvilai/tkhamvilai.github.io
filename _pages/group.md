@@ -51,8 +51,8 @@ Bachelor Degree in Mechanical Engineering, Texas Tech University\
 ### Akinloluwa Oluokun (Joel)
 ![AkinloluwaOluokun](/images/AkinloluwaOluokun.png#left "AkinloluwaOluokun")\
 Bachelor Degree in Mechanical Engineering, Texas Tech University\
-<ins>First Position</ins>: Operation Engineer at [Enterprise Products](https://www.enterpriseproducts.com/)
-<!-- <ins>Contact</ins>: [linkedin](https://www.linkedin.com/in/marcos-guzman-9077a2265/) -->
+<ins>First Position</ins>: Operation Engineer at [Enterprise Products](https://www.enterpriseproducts.com/)\
+<ins>Contact</ins>: [linkedin](https://www.linkedin.com/in/akin-joel-oluokun-899508251/)
 
 ### Carlos Quiroga
 
